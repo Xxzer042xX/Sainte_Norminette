@@ -248,7 +248,7 @@ client.on('messageCreate', message => {
             const embedDev1 = new EmbedBuilder()
                 .setColor('FFFFFF')
                 .setTitle('Yyunozorus Rex')
-                .setURL('https://github.com/Yyunozorus')
+                .setURL('https://github.com/Yyunozor')
                 .setDescription('Yyuno 🌟')
                 .setImage('https://media.discordapp.net/attachments/1209291872082726912/1211334410138554429/Asset_20.png?ex=65edd214&is=65db5d14&hm=f4e393d1e309b5a9f3c03cd2930578bd0f118a47b1c1c0d07f64dc6f11731b8e&=&format=webp&quality=lossless&width=939&height=936')
                 //.setTimestamp()
@@ -271,9 +271,9 @@ client.on('messageCreate', message => {
                 const embedCheat42 = new EmbedBuilder()
                     .setColor('FFFFFF')
                     .setTitle('Yyunozorus Rex')
-                    .setURL('https://github.com/Yyunozorus/42_CheatSheet')
-                    .setDescription('Cheat_sheet pour 42. Consultez le [lien GitHub](https://github.com/Yyunozorus/C-programming_language_cheat_sheet) pour plus d\'informations. ')
-                    .setImage('https://opengraph.githubassets.com/aad937964952bc18032bc673d13cf91b287f8e46af6324323d0b30c1b05782e1/Yyunozorus/42_CheatSheet')
+                    .setURL('https://github.com/Yyunozor/42_CheatSheet')
+                    .setDescription('Cheat_sheet pour 42. Consultez le [lien GitHub](https://github.com/Yyunozor/C-programming_language_cheat_sheet) pour plus d\'informations. ')
+                    .setImage('https://opengraph.githubassets.com/aad937964952bc18032bc673d13cf91b287f8e46af6324323d0b30c1b05782e1/Yyunozor/42_CheatSheet')
                     //.setTimestamp()
                     //.setFooter({ text: 'Un message de votre bot', iconURL: 'URL_DE_L_ICONE_DU_BOT' });
                 message.reply({ embeds: [embedCheat42] });
@@ -283,9 +283,9 @@ client.on('messageCreate', message => {
                     const embedCheatc = new EmbedBuilder()
                         .setColor('FFFFFF')
                         .setTitle('Yyunozorus Rex')
-                        .setURL('https://github.com/Yyunozorus/C-programming_language_cheat_sheet')
-                        .setDescription('Cheat_sheet pour le langage C. Consultez le [lien GitHub](https://github.com/Yyunozorus/C-programming_language_cheat_sheet) pour plus d\'informations. ')
-                        .setImage('https://opengraph.githubassets.com/68fa37ef86766bc978dcb8bd86bd3e8a4d0ce1b61067509ec1c5ed215cd71641/Yyunozorus/C-programming_language_cheat_sheet')
+                        .setURL('https://github.com/Yyunozor/C-programming_language_cheat_sheet')
+                        .setDescription('Cheat_sheet pour le langage C. Consultez le [lien GitHub](https://github.com/Yyunozor/C-programming_language_cheat_sheet) pour plus d\'informations. ')
+                        .setImage('https://opengraph.githubassets.com/68fa37ef86766bc978dcb8bd86bd3e8a4d0ce1b61067509ec1c5ed215cd71641/Yyunozor/C-programming_language_cheat_sheet')
                         //.setTimestamp()
                         //.setFooter({ text: 'Un message de votre bot', iconURL: 'URL_DE_L_ICONE_DU_BOT' });
                     message.reply({ embeds: [embedCheatc] });
@@ -295,9 +295,9 @@ client.on('messageCreate', message => {
                     const embedAwec = new EmbedBuilder()
                         .setColor('FFFFFF') // Définit la couleur de l'embed
                         .setTitle('Yunozorus Rex') // Définit le titre de l'embed
-                        .setURL('https://github.com/Yyunozorus/awesome-c') // Définit l'URL à associer au titre
-                        .setDescription('Une collection impressionnante de ressources C. Consultez le [lien GitHub](https://github.com/Yyunozorus/awesome-c) pour plus d\'informations.')
-                        .setImage('https://images-ext-2.discordapp.net/external/vQfEZBzVUiIvC1k1f1C6hyuvehOVVUm-j26nWr1ktic/https/opengraph.githubassets.com/68fa37ef86766bc978dcb8bd86bd3e8a4d0ce1b61067509ec1c5ed215cd71641/Yyunozorus/C-programming_language_cheat_sheet?format=webp&width=960&height=480') // Optionnel: Ajouter une image à l'embed
+                        .setURL('https://github.com/Yyunozor/awesome-c') // Définit l'URL à associer au titre
+                        .setDescription('Une collection impressionnante de ressources C. Consultez le [lien GitHub](https://github.com/Yyunozor/awesome-c) pour plus d\'informations.')
+                        .setImage('https://images-ext-2.discordapp.net/external/vQfEZBzVUiIvC1k1f1C6hyuvehOVVUm-j26nWr1ktic/https/opengraph.githubassets.com/68fa37ef86766bc978dcb8bd86bd3e8a4d0ce1b61067509ec1c5ed215cd71641/Yyunozor/C-programming_language_cheat_sheet?format=webp&width=960&height=480') // Optionnel: Ajouter une image à l'embed
                         // .setFooter({ text: 'Un message de votre bot', iconURL: 'URL_DE_L_ICONE_DU_BOT' }); // Optionnel: Ajouter un pied de page à l'embed
                         // Envoi de l'embed dans le message de réponse
                         message.reply({ embeds: [embedAwec] });
